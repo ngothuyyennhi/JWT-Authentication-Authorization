@@ -1,0 +1,220 @@
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\appsettings.json
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Azure.Core.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Azure.Identity.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Google.Protobuf.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Humanizer.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\MySql.Data.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\MySqlConnector.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.CodeDom.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Text.Json.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\ZstdSharp.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CodeProject\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+D:\CodeProject\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\appsettings.json
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Azure.Core.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Azure.Identity.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Google.Protobuf.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Humanizer.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\MySql.Data.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\MySqlConnector.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.CodeDom.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Memory.Data.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Text.Json.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\ZstdSharp.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+F:\hk1 nam3\C#\WebApplication2-20230919T062743Z-001\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
