@@ -17,29 +17,18 @@ namespace WebApplication2.Controllers
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IConfiguration _configuration;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
         public AuthenticateController(
             UserManager<ApplicationUser> userManager,
             RoleManager<IdentityRole> roleManager,
-            IConfiguration configuration,
-            IHttpContextAccessor httpContextAccessor
+            IConfiguration configuration
             )
         {
             _userManager = userManager;
             _roleManager = roleManager;
             _configuration = configuration;
-            _httpContextAccessor = httpContextAccessor;
         }
 
-        [Authorize]
-        [HttpGet]
-        [Route("loginUserId")]
-        public ActionResult GetCurrentUser() {
-            string current = _userManager.GetUserId(_httpContextAccessor.HttpContext.User);
-            if (current == null) return BadRequest("not login");
-            return Ok(current);
-        }
 
         [HttpPost]
         [Route("login")]

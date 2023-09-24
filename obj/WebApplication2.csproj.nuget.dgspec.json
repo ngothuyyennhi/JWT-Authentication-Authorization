@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\hk1 nam3\\C#\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\yennh\\OneDrive\\code\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "F:\\hk1 nam3\\C#\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\yennh\\OneDrive\\code\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\hk1 nam3\\C#\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\yennh\\OneDrive\\code\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "F:\\hk1 nam3\\C#\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\yennh\\OneDrive\\code\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\yennh\\.nuget\\packages\\",
-        "outputPath": "F:\\hk1 nam3\\C#\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\yennh\\OneDrive\\code\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yennh\\AppData\\Roaming\\NuGet\\NuGet.Config",
