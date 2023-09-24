@@ -15,5 +15,9 @@ namespace WebApplication2.Model
             base.OnModelCreating(builder);
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Cart> cart { get; set; }
+        public DbSet<CartDetail> cart_detail { get; set; }
+
+        
     }
 }
